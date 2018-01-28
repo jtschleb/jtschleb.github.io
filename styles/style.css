@@ -101,6 +101,7 @@ td, th {
 
 .navigation_panel > a {
     background-color: #002642;
+    color: white;
     padding: 8px;
     border-radius: 10px;
 }
